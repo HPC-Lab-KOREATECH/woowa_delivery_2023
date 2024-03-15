@@ -1,0 +1,208 @@
+2023-10-09 03:30:03.689 [info] [Info  - 3:30:03 AM] (1101994) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-09 03:30:03.689 [info] [Info  - 3:30:03 AM] (1101994) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-09 03:30:03.689 [info] [Info  - 3:30:03 AM] (1101994) Starting service instance "root"
+2023-10-09 03:30:03.709 [info] [Info  - 3:30:03 AM] (1101994) Setting pythonPath for service "root": "/bin/python3"
+2023-10-09 03:30:03.709 [info] [Info  - 3:30:03 AM] (1101994) Setting environmentName for service "root": "3.8.10 (global)"
+2023-10-09 03:30:03.709 [info] [Warn  - 3:30:03 AM] (1101994) stubPath /root/typings is not a valid directory.
+2023-10-09 03:30:03.723 [info] [Info  - 3:30:03 AM] (1101994) Assuming Python version 3.8
+2023-10-09 03:30:04.106 [info] [Warn  - 3:30:04 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 03:30:04.414 [info] [Warn  - 3:30:04 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 03:30:04.563 [info] [Info  - 3:30:04 AM] (1101994) Found 1514 source files
+2023-10-09 03:32:15.538 [info] [Warn  - 3:32:15 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 03:32:15.840 [info] [Warn  - 3:32:15 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 03:32:15.992 [info] [Info  - 3:32:15 AM] (1101994) Found 1514 source files
+2023-10-09 03:39:58.886 [info] [Warn  - 3:39:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 03:39:59.430 [info] [Warn  - 3:39:59 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 03:39:59.693 [info] [Info  - 3:39:59 AM] (1101994) Found 1514 source files
+2023-10-09 03:41:37.667 [info] [Warn  - 3:41:37 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 03:41:37.988 [info] [Warn  - 3:41:37 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 03:41:38.149 [info] [Info  - 3:41:38 AM] (1101994) Found 1514 source files
+2023-10-09 04:03:56.261 [info] [Warn  - 4:03:56 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:03:56.771 [info] [Warn  - 4:03:56 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:03:57.010 [info] [Info  - 4:03:57 AM] (1101994) Found 1514 source files
+2023-10-09 04:05:51.023 [info] [Warn  - 4:05:51 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:05:51.332 [info] [Warn  - 4:05:51 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:05:51.474 [info] [Info  - 4:05:51 AM] (1101994) Found 1514 source files
+2023-10-09 04:08:36.203 [info] [Warn  - 4:08:36 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:08:36.508 [info] [Warn  - 4:08:36 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:08:36.654 [info] [Info  - 4:08:36 AM] (1101994) Found 1514 source files
+2023-10-09 04:16:58.672 [info] [Warn  - 4:16:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:16:58.985 [info] [Warn  - 4:16:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:16:59.137 [info] [Info  - 4:16:59 AM] (1101994) Found 1514 source files
+2023-10-09 04:19:28.755 [info] [Warn  - 4:19:28 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:19:29.082 [info] [Warn  - 4:19:29 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:19:29.232 [info] [Info  - 4:19:29 AM] (1101994) Found 1514 source files
+2023-10-09 04:24:30.249 [info] [Warn  - 4:24:30 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:24:30.660 [info] [Warn  - 4:24:30 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:24:30.823 [info] [Info  - 4:24:30 AM] (1101994) Found 1514 source files
+2023-10-09 04:25:03.075 [info] [Warn  - 4:25:03 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:25:03.581 [info] [Warn  - 4:25:03 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:25:03.841 [info] [Info  - 4:25:03 AM] (1101994) Found 1514 source files
+2023-10-09 04:28:35.223 [info] [Warn  - 4:28:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:28:35.554 [info] [Warn  - 4:28:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:28:35.704 [info] [Info  - 4:28:35 AM] (1101994) Found 1514 source files
+2023-10-09 04:30:08.541 [info] [Warn  - 4:30:08 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:30:09.531 [info] [Warn  - 4:30:09 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:30:09.762 [info] [Info  - 4:30:09 AM] (1101994) Found 1514 source files
+2023-10-09 04:30:25.796 [info] [Warn  - 4:30:25 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:30:26.111 [info] [Warn  - 4:30:26 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:30:26.261 [info] [Info  - 4:30:26 AM] (1101994) Found 1514 source files
+2023-10-09 04:31:38.664 [info] [Warn  - 4:31:38 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:31:38.973 [info] [Warn  - 4:31:38 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:31:39.118 [info] [Info  - 4:31:39 AM] (1101994) Found 1514 source files
+2023-10-09 04:31:50.157 [info] [Warn  - 4:31:50 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:31:51.304 [info] [Warn  - 4:31:51 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:31:51.542 [info] [Info  - 4:31:51 AM] (1101994) Found 1514 source files
+2023-10-09 04:32:58.268 [info] [Warn  - 4:32:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:32:58.589 [info] [Warn  - 4:32:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:32:58.744 [info] [Info  - 4:32:58 AM] (1101994) Found 1514 source files
+2023-10-09 04:33:58.352 [info] [Warn  - 4:33:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:33:58.881 [info] [Warn  - 4:33:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:33:59.124 [info] [Info  - 4:33:59 AM] (1101994) Found 1514 source files
+2023-10-09 04:39:34.806 [info] [Warn  - 4:39:34 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:39:35.119 [info] [Warn  - 4:39:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:39:35.270 [info] [Info  - 4:39:35 AM] (1101994) Found 1514 source files
+2023-10-09 04:43:18.537 [info] [Warn  - 4:43:18 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:43:18.853 [info] [Warn  - 4:43:18 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:43:18.999 [info] [Info  - 4:43:18 AM] (1101994) Found 1514 source files
+2023-10-09 04:43:32.918 [info] [Warn  - 4:43:32 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:43:33.421 [info] [Warn  - 4:43:33 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:43:33.657 [info] [Info  - 4:43:33 AM] (1101994) Found 1514 source files
+2023-10-09 04:44:16.499 [info] [Warn  - 4:44:16 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:44:16.817 [info] [Warn  - 4:44:16 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:44:16.972 [info] [Info  - 4:44:16 AM] (1101994) Found 1514 source files
+2023-10-09 04:45:59.747 [info] [Warn  - 4:45:59 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:46:00.061 [info] [Warn  - 4:46:00 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:46:00.215 [info] [Info  - 4:46:00 AM] (1101994) Found 1514 source files
+2023-10-09 04:49:31.197 [info] [Warn  - 4:49:31 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:49:31.513 [info] [Warn  - 4:49:31 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:49:31.663 [info] [Info  - 4:49:31 AM] (1101994) Found 1514 source files
+2023-10-09 04:54:19.377 [info] [Warn  - 4:54:19 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:54:19.692 [info] [Warn  - 4:54:19 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:54:19.849 [info] [Info  - 4:54:19 AM] (1101994) Found 1514 source files
+2023-10-09 04:55:22.303 [info] [Warn  - 4:55:22 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:55:22.620 [info] [Warn  - 4:55:22 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:55:22.774 [info] [Info  - 4:55:22 AM] (1101994) Found 1514 source files
+2023-10-09 04:57:02.806 [info] [Warn  - 4:57:02 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:57:03.122 [info] [Warn  - 4:57:03 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:57:03.275 [info] [Info  - 4:57:03 AM] (1101994) Found 1514 source files
+2023-10-09 04:59:04.691 [info] [Warn  - 4:59:04 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 04:59:05.007 [info] [Warn  - 4:59:05 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 04:59:05.162 [info] [Info  - 4:59:05 AM] (1101994) Found 1514 source files
+2023-10-09 05:01:53.770 [info] [Warn  - 5:01:53 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:01:54.075 [info] [Warn  - 5:01:54 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:01:54.225 [info] [Info  - 5:01:54 AM] (1101994) Found 1514 source files
+2023-10-09 05:03:58.525 [info] [Warn  - 5:03:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:03:58.838 [info] [Warn  - 5:03:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:03:58.990 [info] [Info  - 5:03:58 AM] (1101994) Found 1514 source files
+2023-10-09 05:10:34.528 [info] [Warn  - 5:10:34 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:10:34.833 [info] [Warn  - 5:10:34 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:10:34.983 [info] [Info  - 5:10:34 AM] (1101994) Found 1514 source files
+2023-10-09 05:23:15.670 [info] [Warn  - 5:23:15 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:23:16.172 [info] [Warn  - 5:23:16 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:23:16.422 [info] [Info  - 5:23:16 AM] (1101994) Found 1514 source files
+2023-10-09 05:30:29.319 [info] [Warn  - 5:30:29 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:30:29.634 [info] [Warn  - 5:30:29 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:30:29.796 [info] [Info  - 5:30:29 AM] (1101994) Found 1514 source files
+2023-10-09 05:30:51.781 [info] [Warn  - 5:30:51 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:30:52.237 [info] [Warn  - 5:30:52 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:30:52.385 [info] [Info  - 5:30:52 AM] (1101994) Found 1514 source files
+2023-10-09 05:32:33.222 [info] [Warn  - 5:32:33 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:32:33.535 [info] [Warn  - 5:32:33 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:32:33.689 [info] [Info  - 5:32:33 AM] (1101994) Found 1514 source files
+2023-10-09 05:40:53.182 [info] [Warn  - 5:40:53 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:40:53.588 [info] [Warn  - 5:40:53 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:40:53.751 [info] [Info  - 5:40:53 AM] (1101994) Found 1514 source files
+2023-10-09 05:41:26.834 [info] [Warn  - 5:41:26 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:41:27.341 [info] [Warn  - 5:41:27 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:41:27.623 [info] [Info  - 5:41:27 AM] (1101994) Found 1514 source files
+2023-10-09 05:42:55.847 [info] [Warn  - 5:42:55 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:42:56.400 [info] [Warn  - 5:42:56 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:42:56.694 [info] [Info  - 5:42:56 AM] (1101994) Found 1514 source files
+2023-10-09 05:52:36.651 [info] [Warn  - 5:52:36 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:52:37.149 [info] [Warn  - 5:52:37 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:52:37.398 [info] [Info  - 5:52:37 AM] (1101994) Found 1514 source files
+2023-10-09 05:56:02.275 [info] [Warn  - 5:56:02 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:56:02.836 [info] [Warn  - 5:56:02 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:56:03.107 [info] [Info  - 5:56:03 AM] (1101994) Found 1514 source files
+2023-10-09 05:56:38.274 [info] [Warn  - 5:56:38 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:56:38.836 [info] [Warn  - 5:56:38 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:56:39.108 [info] [Info  - 5:56:39 AM] (1101994) Found 1514 source files
+2023-10-09 05:57:14.499 [info] [Warn  - 5:57:14 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 05:57:14.812 [info] [Warn  - 5:57:14 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 05:57:15.421 [info] [Info  - 5:57:15 AM] (1101994) Found 1514 source files
+2023-10-09 06:00:23.965 [info] [Warn  - 6:00:23 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:00:25.183 [info] [Warn  - 6:00:25 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:00:25.487 [info] [Info  - 6:00:25 AM] (1101994) Found 1514 source files
+2023-10-09 06:01:13.951 [info] [Warn  - 6:01:13 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:01:14.356 [info] [Warn  - 6:01:14 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:01:14.520 [info] [Info  - 6:01:14 AM] (1101994) Found 1514 source files
+2023-10-09 06:02:26.070 [info] [Warn  - 6:02:26 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:02:26.578 [info] [Warn  - 6:02:26 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:02:26.834 [info] [Info  - 6:02:26 AM] (1101994) Found 1514 source files
+2023-10-09 06:03:48.886 [info] [Warn  - 6:03:48 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:03:49.406 [info] [Warn  - 6:03:49 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:03:49.664 [info] [Info  - 6:03:49 AM] (1101994) Found 1514 source files
+2023-10-09 06:08:41.791 [info] [Warn  - 6:08:41 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:08:42.278 [info] [Warn  - 6:08:42 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:08:42.521 [info] [Info  - 6:08:42 AM] (1101994) Found 1514 source files
+2023-10-09 06:09:52.957 [info] [Warn  - 6:09:52 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:09:53.483 [info] [Warn  - 6:09:53 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:09:53.745 [info] [Info  - 6:09:53 AM] (1101994) Found 1514 source files
+2023-10-09 06:15:41.128 [info] [Warn  - 6:15:41 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:15:41.458 [info] [Warn  - 6:15:41 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:15:41.617 [info] [Info  - 6:15:41 AM] (1101994) Found 1514 source files
+2023-10-09 06:18:12.406 [info] [Warn  - 6:18:12 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:18:12.912 [info] [Warn  - 6:18:12 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:18:13.137 [info] [Info  - 6:18:13 AM] (1101994) Found 1514 source files
+2023-10-09 06:19:14.740 [info] [Warn  - 6:19:14 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:19:15.054 [info] [Warn  - 6:19:15 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:19:15.213 [info] [Info  - 6:19:15 AM] (1101994) Found 1514 source files
+2023-10-09 06:19:47.826 [info] [Warn  - 6:19:47 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:19:48.255 [info] [Warn  - 6:19:48 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:19:49.195 [info] [Info  - 6:19:49 AM] (1101994) Found 1514 source files
+2023-10-09 06:21:14.265 [info] [Warn  - 6:21:14 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:21:14.758 [info] [Warn  - 6:21:14 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:21:15.018 [info] [Info  - 6:21:15 AM] (1101994) Found 1514 source files
+2023-10-09 06:21:35.029 [info] [Warn  - 6:21:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:21:35.388 [info] [Warn  - 6:21:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:21:35.559 [info] [Info  - 6:21:35 AM] (1101994) Found 1514 source files
+2023-10-09 06:22:37.864 [info] [Warn  - 6:22:37 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:22:38.178 [info] [Warn  - 6:22:38 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:22:38.581 [info] [Info  - 6:22:38 AM] (1101994) Found 1514 source files
+2023-10-09 06:25:53.743 [info] [Warn  - 6:25:53 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:25:54.240 [info] [Warn  - 6:25:54 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:25:54.457 [info] [Info  - 6:25:54 AM] (1101994) Found 1514 source files
+2023-10-09 06:27:20.671 [info] [Warn  - 6:27:20 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:27:21.159 [info] [Warn  - 6:27:21 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:27:21.404 [info] [Info  - 6:27:21 AM] (1101994) Found 1514 source files
+2023-10-09 06:27:35.260 [info] [Warn  - 6:27:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:27:35.975 [info] [Warn  - 6:27:35 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:27:36.722 [info] [Info  - 6:27:36 AM] (1101994) Found 1514 source files
+2023-10-09 06:32:58.684 [info] [Warn  - 6:32:58 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:32:59.216 [info] [Warn  - 6:32:59 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:32:59.499 [info] [Info  - 6:32:59 AM] (1101994) Found 1514 source files
+2023-10-09 06:40:16.731 [info] [Warn  - 6:40:16 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:40:17.290 [info] [Warn  - 6:40:17 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:40:17.609 [info] [Info  - 6:40:17 AM] (1101994) Found 1514 source files
+2023-10-09 06:40:56.506 [info] [Warn  - 6:40:56 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:40:57.031 [info] [Warn  - 6:40:57 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:40:57.294 [info] [Info  - 6:40:57 AM] (1101994) Found 1514 source files
+2023-10-09 06:54:25.926 [info] [Warn  - 6:54:25 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 06:54:26.443 [info] [Warn  - 6:54:26 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 06:54:26.705 [info] [Info  - 6:54:26 AM] (1101994) Found 1514 source files
+2023-10-09 07:07:06.350 [info] [Warn  - 7:07:06 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 07:07:06.660 [info] [Warn  - 7:07:06 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 07:07:06.821 [info] [Info  - 7:07:06 AM] (1101994) Found 1514 source files
+2023-10-09 07:07:47.056 [info] [Warn  - 7:07:47 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 07:07:47.574 [info] [Warn  - 7:07:47 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 07:07:47.842 [info] [Info  - 7:07:47 AM] (1101994) Found 1514 source files
+2023-10-09 07:16:47.335 [info] [Warn  - 7:16:47 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 07:16:47.851 [info] [Warn  - 7:16:47 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 07:16:48.128 [info] [Info  - 7:16:48 AM] (1101994) Found 1514 source files
+2023-10-09 07:23:10.259 [info] [Warn  - 7:23:10 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 07:23:10.584 [info] [Warn  - 7:23:10 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 07:23:10.751 [info] [Info  - 7:23:10 AM] (1101994) Found 1514 source files
+2023-10-09 07:32:22.046 [info] [Warn  - 7:32:22 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 07:32:22.356 [info] [Warn  - 7:32:22 AM] (1101994) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 07:32:22.515 [info] [Info  - 7:32:22 AM] (1101994) Found 1514 source files

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<robot name="my_robot">
+
+    <!-- Define the base link -->
+    <link name="base_link"/>
+
+    <!-- Define the imu link -->
+    <link name="imu"/>
+
+    <joint name="base_link_to_imu_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="imu"/>
+        <origin xyz="0.06935402750968933 0.002134578302502632 0.7690000534057617" rpy="0 0 0"/>
+    </joint>
+
+    <!-- Define the LaserScan link -->
+    <link name="velodyne"/>
+
+    <joint name="base_link_to_laser_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="velodyne"/>
+        <origin xyz="0.15399999916553497 0.0 0.7310000061988831" rpy="0 0 0"/>
+    </joint>
+
+    <!-- Define the gps link -->
+    <link name="gps"/>
+
+    <joint name="base_link_to_gps_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="gps"/>
+        <origin xyz="0.0 0.0 0.7429999709129333" rpy="0 0 0"/>
+    </joint>
+
+    <!-- Define the base_footprint link -->
+    <link name="base_footprint"/>
+
+    <joint name="base_link_to_footprint_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="base_footprint"/>
+        <origin xyz="0.0 0.0 0.1" rpy="0 0 0"/>
+    </joint>
+
+</robot>

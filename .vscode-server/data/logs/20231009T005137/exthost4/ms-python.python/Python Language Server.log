@@ -1,0 +1,13 @@
+2023-10-09 01:05:54.345 [info] [Info  - 1:05:54 AM] (156240) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-09 01:05:54.345 [info] [Info  - 1:05:54 AM] (156240) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-09 01:05:54.345 [info] [Info  - 1:05:54 AM] (156240) Starting service instance "root"
+2023-10-09 01:05:54.377 [info] [Info  - 1:05:54 AM] (156240) Setting pythonPath for service "root": "/bin/python3"
+2023-10-09 01:05:54.377 [info] [Info  - 1:05:54 AM] (156240) Setting environmentName for service "root": "3.8.10 (global)"
+2023-10-09 01:05:54.378 [info] [Warn  - 1:05:54 AM] (156240) stubPath /root/typings is not a valid directory.
+2023-10-09 01:05:54.394 [info] [Info  - 1:05:54 AM] (156240) Assuming Python version 3.8
+2023-10-09 01:05:54.812 [info] [Warn  - 1:05:54 AM] (156240) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 01:05:56.033 [info] [Warn  - 1:05:56 AM] (156240) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 01:05:56.301 [info] [Info  - 1:05:56 AM] (156240) Found 1514 source files
+2023-10-09 02:12:55.396 [info] [Warn  - 2:12:55 AM] (156240) Skipping recursive symlink "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws/catkin_ws/src/catkin_simple/test"
+2023-10-09 02:12:55.716 [info] [Warn  - 2:12:55 AM] (156240) Skipping recursive symlink "/root/home/Downloads/catkin_ws2/src/catkin_simple/test/scenarios/hello_world/catkin_simple/test" -> "/root/home/Downloads/catkin_ws2/src/catkin_simple/test"
+2023-10-09 02:12:56.757 [info] [Info  - 2:12:56 AM] (156240) Found 1514 source files

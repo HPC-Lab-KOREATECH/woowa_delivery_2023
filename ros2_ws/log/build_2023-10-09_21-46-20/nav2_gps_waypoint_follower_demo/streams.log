@@ -1,0 +1,31 @@
+[0.731s] Invoking command in '/root/ros2_ws/src/nav2_gps_waypoint_follower_demo': PYTHONPATH=/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/prefix_override:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/nav2_gps_waypoint_follower_demo build --build-base /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build install --record /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log --single-version-externally-managed
+[0.849s] running egg_info
+[0.911s] writing ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/PKG-INFO
+[0.911s] writing dependency_links to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/dependency_links.txt
+[0.911s] writing entry points to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/entry_points.txt
+[0.911s] writing requirements to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/requires.txt
+[0.911s] writing top-level names to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/top_level.txt
+[0.926s] reading manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'
+[0.926s] writing manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'
+[0.926s] running build
+[0.927s] running build_py
+[0.927s] running install
+[0.928s] /usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.928s] !!
+[0.928s] 
+[0.928s]         ********************************************************************************
+[0.928s]         Please avoid running ``setup.py`` directly.
+[0.928s]         Instead, use pypa/build, pypa/installer or other
+[0.928s]         standards-based tools.
+[0.928s] 
+[0.928s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.928s]         ********************************************************************************
+[0.928s] 
+[0.928s] !!
+[0.928s]   self.initialize_options()
+[0.929s] running install_lib
+[0.937s] running install_data
+[0.945s] copying launch/gps_waypoint_follower.launch.py -> /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/share/nav2_gps_waypoint_follower_demo/launch
+[0.945s] copying launch/dual_ekf_navsat.launch.py -> /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/share/nav2_gps_waypoint_follower_demo/launch
+[0.946s] error: can't copy 'config/build': doesn't exist or not a regular file
+[0.959s] Invoked command in '/root/ros2_ws/src/nav2_gps_waypoint_follower_demo' returned '1': PYTHONPATH=/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/prefix_override:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/nav2_gps_waypoint_follower_demo build --build-base /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build install --record /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log --single-version-externally-managed

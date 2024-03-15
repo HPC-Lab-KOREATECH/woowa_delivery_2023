@@ -1,0 +1,622 @@
+2023-10-06 18:10:44.646 [info] Log level: Info
+2023-10-06 18:10:44.646 [info] Validating found git in: "git"
+2023-10-06 18:10:44.646 [info] Using git "2.25.1" from "git"
+2023-10-06 18:10:44.646 [info] > git rev-parse --show-toplevel [14ms]
+2023-10-06 18:10:44.646 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.646 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 18:10:44.646 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.646 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 18:10:44.646 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.650 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:10:44.650 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.652 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.655 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:10:44.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.657 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.657 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.659 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.659 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.661 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.661 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.664 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:10:44.664 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.666 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.666 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.668 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.668 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.676 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-06 18:10:44.676 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.679 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:10:44.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.681 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.681 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:10:44.684 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:10:44.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:19.988 [info] > git rev-parse --show-toplevel [33ms]
+2023-10-06 18:11:19.988 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:23.681 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:11:23.681 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:37.361 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:11:37.361 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:37.753 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 18:11:37.753 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:39.880 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 18:11:39.880 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:40.725 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:11:40.725 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:11:41.853 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:11:41.853 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:59:22.770 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:59:22.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 18:59:23.409 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 18:59:23.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:08:50.602 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:08:50.602 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:08:58.345 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:08:58.345 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:08:58.351 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:08:58.352 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:08:58.359 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:08:58.359 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:06.701 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:39:06.701 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:06.734 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-06 19:39:06.734 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:06.741 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:39:06.741 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:12.081 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:39:12.081 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:12.088 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:39:12.088 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:12.094 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:39:12.094 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:23.891 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:39:23.891 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:23.898 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:39:23.898 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:23.902 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:39:23.902 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:24.309 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:39:24.309 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:24.315 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:39:24.315 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:39:24.321 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:39:24.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:55:26.193 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:55:26.193 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:55:26.309 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 19:55:26.309 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:55:26.324 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-06 19:55:26.324 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:00.889 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-06 19:59:00.889 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:00.896 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:59:00.896 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:00.901 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:59:00.901 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:01.201 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:59:01.201 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:01.208 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:59:01.208 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:01.215 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:59:01.215 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:37.694 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 19:59:37.694 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:37.720 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:59:37.720 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:37.732 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 19:59:37.732 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:42.918 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:59:42.918 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:42.940 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 19:59:42.940 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 19:59:42.955 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 19:59:42.955 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:00:46.359 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 20:00:46.359 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:00:46.368 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:00:46.368 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:00:46.375 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:00:46.375 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:00:46.673 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:00:46.673 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:00:46.680 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:00:46.680 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:00:46.687 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:00:46.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:03:57.930 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:03:57.930 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:03:57.984 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:03:57.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:03:57.989 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:03:57.989 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:15:22.640 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:15:22.640 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:15:22.674 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:15:22.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:15:22.684 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:15:22.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:15:26.474 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:15:26.474 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:15:26.575 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:15:26.575 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:15:26.583 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:15:26.583 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:16:08.717 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:16:08.717 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:16:08.723 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:16:08.723 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:16:08.729 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:16:08.729 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:32:37.525 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:32:37.525 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:32:37.560 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 20:32:37.560 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:32:37.568 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 20:32:37.568 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:32:45.044 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:32:45.044 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:32:45.128 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 20:32:45.128 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:32:45.137 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:32:45.137 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:33:57.757 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-06 20:33:57.757 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:33:57.765 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:33:57.765 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:33:57.772 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:33:57.772 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:40:49.299 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:40:49.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:40:49.342 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:40:49.342 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:40:49.357 [info] > git rev-parse --show-toplevel [10ms]
+2023-10-06 20:40:49.364 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-06 20:40:49.373 [info] Open repository: /root/catkin_ws/src
+2023-10-06 20:40:49.385 [info] > git config --get commit.template [1ms]
+2023-10-06 20:40:49.398 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-06 20:40:49.420 [info] > git status -z -uall [15ms]
+2023-10-06 20:40:49.443 [info] > git config --get commit.template [10ms]
+2023-10-06 20:40:49.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 20:40:49.453 [info] > git status -z -uall [3ms]
+2023-10-06 20:40:49.728 [info] > git show --textconv :hpc_mcs/scripts/hpc_mcs.py [4ms]
+2023-10-06 20:40:49.728 [info] > git ls-files --stage -- /root/catkin_ws/src/hpc_mcs/scripts/hpc_mcs.py [0ms]
+2023-10-06 20:40:49.905 [info] > git check-ignore -v -z --stdin [0ms]
+2023-10-06 20:40:56.158 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:40:56.158 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:40:56.165 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:40:56.165 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:40:56.170 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:40:56.170 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:41:01.738 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-06 20:41:03.632 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-06 20:41:07.088 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 20:41:07.088 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:41:07.155 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-06 20:41:07.155 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 20:41:07.325 [info] > git show --textconv :hpc_gps_pkg/scripts/path_publisher.py [4ms]
+2023-10-06 20:41:07.326 [info] > git ls-files --stage -- /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py [0ms]
+2023-10-06 21:55:07.097 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 21:55:07.097 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 21:55:07.106 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 21:55:07.106 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 21:55:07.117 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 21:55:07.117 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 21:55:07.869 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-06 21:55:07.869 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 21:58:59.922 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-06 21:58:59.922 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 21:59:00.124 [info] > git show --textconv :hpc_gps_pkg/scripts/path_publisher.py [5ms]
+2023-10-06 21:59:00.124 [info] > git ls-files --stage -- /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py [0ms]
+2023-10-06 21:59:29.020 [info] > git config --get commit.template [5ms]
+2023-10-06 21:59:29.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 21:59:29.029 [info] > git status -z -uall [3ms]
+2023-10-06 22:05:21.457 [info] > git config --get commit.template [7ms]
+2023-10-06 22:05:21.458 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:05:21.464 [info] > git status -z -uall [2ms]
+2023-10-06 22:06:03.183 [info] > git config --get commit.template [5ms]
+2023-10-06 22:06:03.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:06:03.197 [info] > git status -z -uall [3ms]
+2023-10-06 22:06:08.831 [info] > git config --get commit.template [1ms]
+2023-10-06 22:06:08.836 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-10-06 22:06:08.842 [info] > git status -z -uall [2ms]
+2023-10-06 22:06:20.775 [info] > git config --get commit.template [8ms]
+2023-10-06 22:06:20.775 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:06:20.783 [info] > git status -z -uall [2ms]
+2023-10-06 22:06:39.073 [info] > git config --get commit.template [5ms]
+2023-10-06 22:06:39.074 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:06:39.080 [info] > git status -z -uall [3ms]
+2023-10-06 22:06:48.748 [info] > git config --get commit.template [7ms]
+2023-10-06 22:06:48.749 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:06:48.756 [info] > git status -z -uall [3ms]
+2023-10-06 22:06:54.451 [info] > git config --get commit.template [5ms]
+2023-10-06 22:06:54.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:06:54.457 [info] > git status -z -uall [3ms]
+2023-10-06 22:08:14.006 [info] > git config --get commit.template [7ms]
+2023-10-06 22:08:14.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:08:14.015 [info] > git status -z -uall [3ms]
+2023-10-06 22:08:22.175 [info] > git config --get commit.template [6ms]
+2023-10-06 22:08:22.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:08:22.183 [info] > git status -z -uall [3ms]
+2023-10-06 22:08:31.821 [info] > git config --get commit.template [8ms]
+2023-10-06 22:08:31.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:08:31.829 [info] > git status -z -uall [2ms]
+2023-10-06 22:08:36.849 [info] > git config --get commit.template [9ms]
+2023-10-06 22:08:36.850 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:08:36.858 [info] > git status -z -uall [3ms]
+2023-10-06 22:08:49.001 [info] > git config --get commit.template [6ms]
+2023-10-06 22:08:49.002 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:08:49.013 [info] > git status -z -uall [3ms]
+2023-10-06 22:09:19.173 [info] > git config --get commit.template [6ms]
+2023-10-06 22:09:19.173 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:09:19.184 [info] > git status -z -uall [4ms]
+2023-10-06 22:09:59.950 [info] > git config --get commit.template [4ms]
+2023-10-06 22:09:59.950 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:09:59.956 [info] > git status -z -uall [2ms]
+2023-10-06 22:12:01.627 [info] > git config --get commit.template [7ms]
+2023-10-06 22:12:01.628 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:12:01.636 [info] > git status -z -uall [3ms]
+2023-10-06 22:12:09.257 [info] > git config --get commit.template [5ms]
+2023-10-06 22:12:09.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:12:09.266 [info] > git status -z -uall [3ms]
+2023-10-06 22:12:28.510 [info] > git config --get commit.template [6ms]
+2023-10-06 22:12:28.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:12:28.520 [info] > git status -z -uall [2ms]
+2023-10-06 22:12:35.848 [info] > git config --get commit.template [5ms]
+2023-10-06 22:12:35.848 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:12:35.855 [info] > git status -z -uall [2ms]
+2023-10-06 22:12:40.870 [info] > git config --get commit.template [6ms]
+2023-10-06 22:12:40.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:12:40.877 [info] > git status -z -uall [3ms]
+2023-10-06 22:12:54.734 [info] > git config --get commit.template [4ms]
+2023-10-06 22:12:54.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:12:54.741 [info] > git status -z -uall [2ms]
+2023-10-06 22:13:31.459 [info] > git config --get commit.template [5ms]
+2023-10-06 22:13:31.460 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:13:31.466 [info] > git status -z -uall [3ms]
+2023-10-06 22:13:44.984 [info] > git config --get commit.template [6ms]
+2023-10-06 22:13:44.985 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:13:44.995 [info] > git status -z -uall [3ms]
+2023-10-06 22:13:54.529 [info] > git config --get commit.template [4ms]
+2023-10-06 22:13:54.529 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:13:54.538 [info] > git status -z -uall [4ms]
+2023-10-06 22:14:10.280 [info] > git config --get commit.template [7ms]
+2023-10-06 22:14:10.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:14:10.288 [info] > git status -z -uall [3ms]
+2023-10-06 22:14:15.306 [info] > git config --get commit.template [7ms]
+2023-10-06 22:14:15.306 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:14:15.314 [info] > git status -z -uall [3ms]
+2023-10-06 22:14:20.328 [info] > git config --get commit.template [5ms]
+2023-10-06 22:14:20.328 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:14:20.335 [info] > git status -z -uall [3ms]
+2023-10-06 22:14:25.351 [info] > git config --get commit.template [6ms]
+2023-10-06 22:14:25.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:14:25.362 [info] > git status -z -uall [5ms]
+2023-10-06 22:14:30.377 [info] > git config --get commit.template [6ms]
+2023-10-06 22:14:30.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:14:30.388 [info] > git status -z -uall [3ms]
+2023-10-06 22:14:42.924 [info] > git config --get commit.template [8ms]
+2023-10-06 22:14:42.925 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:14:42.932 [info] > git status -z -uall [3ms]
+2023-10-06 22:14:50.433 [info] > git config --get commit.template [8ms]
+2023-10-06 22:14:50.434 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:14:50.443 [info] > git status -z -uall [3ms]
+2023-10-06 22:14:55.457 [info] > git config --get commit.template [5ms]
+2023-10-06 22:14:55.457 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-10-06 22:14:55.466 [info] > git status -z -uall [3ms]
+2023-10-06 22:17:10.991 [info] > git config --get commit.template [6ms]
+2023-10-06 22:17:10.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:17:11.001 [info] > git status -z -uall [3ms]
+2023-10-06 22:17:17.885 [info] > git config --get commit.template [4ms]
+2023-10-06 22:17:17.885 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:17:17.893 [info] > git status -z -uall [3ms]
+2023-10-06 22:17:32.771 [info] > git config --get commit.template [7ms]
+2023-10-06 22:17:32.772 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:17:32.781 [info] > git status -z -uall [3ms]
+2023-10-06 22:18:44.342 [info] > git config --get commit.template [7ms]
+2023-10-06 22:18:44.343 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:18:44.351 [info] > git status -z -uall [3ms]
+2023-10-06 22:19:07.971 [info] > git config --get commit.template [6ms]
+2023-10-06 22:19:07.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:19:07.979 [info] > git status -z -uall [3ms]
+2023-10-06 22:19:19.807 [info] > git config --get commit.template [5ms]
+2023-10-06 22:19:19.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:19:19.813 [info] > git status -z -uall [2ms]
+2023-10-06 22:20:07.021 [info] > git config --get commit.template [5ms]
+2023-10-06 22:20:07.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:20:07.031 [info] > git status -z -uall [3ms]
+2023-10-06 22:20:14.642 [info] > git config --get commit.template [5ms]
+2023-10-06 22:20:14.643 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:20:14.650 [info] > git status -z -uall [3ms]
+2023-10-06 22:20:24.521 [info] > git config --get commit.template [6ms]
+2023-10-06 22:20:24.522 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:20:24.531 [info] > git status -z -uall [4ms]
+2023-10-06 22:20:38.523 [info] > git config --get commit.template [5ms]
+2023-10-06 22:20:38.523 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:20:38.531 [info] > git status -z -uall [2ms]
+2023-10-06 22:20:43.544 [info] > git config --get commit.template [5ms]
+2023-10-06 22:20:43.544 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:20:43.550 [info] > git status -z -uall [2ms]
+2023-10-06 22:20:55.330 [info] > git config --get commit.template [4ms]
+2023-10-06 22:20:55.331 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:20:55.337 [info] > git status -z -uall [3ms]
+2023-10-06 22:21:00.351 [info] > git config --get commit.template [6ms]
+2023-10-06 22:21:00.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:21:00.357 [info] > git status -z -uall [3ms]
+2023-10-06 22:21:07.203 [info] > git config --get commit.template [5ms]
+2023-10-06 22:21:07.204 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:21:07.210 [info] > git status -z -uall [2ms]
+2023-10-06 22:28:08.735 [info] > git config --get commit.template [6ms]
+2023-10-06 22:28:08.735 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:28:08.742 [info] > git status -z -uall [2ms]
+2023-10-06 22:28:32.759 [info] > git config --get commit.template [4ms]
+2023-10-06 22:28:32.759 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:28:32.769 [info] > git status -z -uall [4ms]
+2023-10-06 22:29:09.681 [info] > git config --get commit.template [5ms]
+2023-10-06 22:29:09.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:29:09.688 [info] > git status -z -uall [3ms]
+2023-10-06 22:29:14.709 [info] > git config --get commit.template [4ms]
+2023-10-06 22:29:14.709 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:29:14.716 [info] > git status -z -uall [3ms]
+2023-10-06 22:29:33.325 [info] > git config --get commit.template [6ms]
+2023-10-06 22:29:33.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:29:33.334 [info] > git status -z -uall [2ms]
+2023-10-06 22:30:00.822 [info] > git config --get commit.template [5ms]
+2023-10-06 22:30:00.823 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:30:00.830 [info] > git status -z -uall [3ms]
+2023-10-06 22:30:19.935 [info] > git config --get commit.template [5ms]
+2023-10-06 22:30:19.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:30:19.943 [info] > git status -z -uall [3ms]
+2023-10-06 22:33:10.054 [info] > git config --get commit.template [5ms]
+2023-10-06 22:33:10.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:33:10.061 [info] > git status -z -uall [3ms]
+2023-10-06 22:37:19.542 [info] > git config --get commit.template [9ms]
+2023-10-06 22:37:19.543 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:37:19.553 [info] > git status -z -uall [3ms]
+2023-10-06 22:37:55.764 [info] > git config --get commit.template [6ms]
+2023-10-06 22:37:55.765 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:37:55.773 [info] > git status -z -uall [4ms]
+2023-10-06 22:41:54.119 [info] > git config --get commit.template [5ms]
+2023-10-06 22:41:54.120 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:41:54.128 [info] > git status -z -uall [3ms]
+2023-10-06 22:43:42.692 [info] > git config --get commit.template [6ms]
+2023-10-06 22:43:42.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:43:42.705 [info] > git status -z -uall [4ms]
+2023-10-06 22:43:47.725 [info] > git config --get commit.template [8ms]
+2023-10-06 22:43:47.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:43:47.733 [info] > git status -z -uall [2ms]
+2023-10-06 22:44:19.114 [info] > git config --get commit.template [8ms]
+2023-10-06 22:44:19.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:44:19.124 [info] > git status -z -uall [3ms]
+2023-10-06 22:44:44.062 [info] > git config --get commit.template [8ms]
+2023-10-06 22:44:44.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:44:44.073 [info] > git status -z -uall [4ms]
+2023-10-06 22:44:49.084 [info] > git config --get commit.template [0ms]
+2023-10-06 22:44:49.093 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:44:49.101 [info] > git status -z -uall [3ms]
+2023-10-06 22:44:59.784 [info] > git config --get commit.template [2ms]
+2023-10-06 22:44:59.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:44:59.801 [info] > git status -z -uall [3ms]
+2023-10-06 22:45:12.998 [info] > git config --get commit.template [8ms]
+2023-10-06 22:45:12.999 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 22:45:13.009 [info] > git status -z -uall [3ms]
+2023-10-06 22:46:19.786 [info] > git config --get commit.template [1ms]
+2023-10-06 22:46:19.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:46:19.807 [info] > git status -z -uall [4ms]
+2023-10-06 22:46:27.096 [info] > git config --get commit.template [6ms]
+2023-10-06 22:46:27.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:46:27.104 [info] > git status -z -uall [3ms]
+2023-10-06 22:54:00.225 [info] > git config --get commit.template [7ms]
+2023-10-06 22:54:00.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 22:54:00.235 [info] > git status -z -uall [3ms]
+2023-10-06 23:01:57.355 [info] > git config --get commit.template [5ms]
+2023-10-06 23:01:57.356 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:01:57.362 [info] > git status -z -uall [3ms]
+2023-10-06 23:36:12.080 [info] > git config --get commit.template [9ms]
+2023-10-06 23:36:12.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 23:36:12.089 [info] > git status -z -uall [3ms]
+2023-10-06 23:45:22.178 [info] > git config --get commit.template [1ms]
+2023-10-06 23:45:22.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:45:22.194 [info] > git status -z -uall [2ms]
+2023-10-06 23:53:55.552 [info] > git config --get commit.template [7ms]
+2023-10-06 23:53:55.553 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-06 23:53:55.562 [info] > git status -z -uall [3ms]
+2023-10-06 23:55:00.009 [info] > git config --get commit.template [5ms]
+2023-10-06 23:55:00.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:55:00.019 [info] > git status -z -uall [3ms]
+2023-10-06 23:55:21.501 [info] > git config --get commit.template [7ms]
+2023-10-06 23:55:21.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:55:21.511 [info] > git status -z -uall [3ms]
+2023-10-06 23:55:50.037 [info] > git config --get commit.template [5ms]
+2023-10-06 23:55:50.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:55:50.045 [info] > git status -z -uall [3ms]
+2023-10-06 23:55:55.413 [info] > git config --get commit.template [5ms]
+2023-10-06 23:55:55.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:55:55.421 [info] > git status -z -uall [3ms]
+2023-10-06 23:56:02.124 [info] > git config --get commit.template [7ms]
+2023-10-06 23:56:02.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:56:02.132 [info] > git status -z -uall [2ms]
+2023-10-06 23:56:38.253 [info] > git config --get commit.template [6ms]
+2023-10-06 23:56:38.254 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:56:38.263 [info] > git status -z -uall [4ms]
+2023-10-06 23:58:24.888 [info] > git config --get commit.template [5ms]
+2023-10-06 23:58:24.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-06 23:58:24.895 [info] > git status -z -uall [2ms]
+2023-10-07 00:14:08.420 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:14:08.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:15:05.959 [info] > git config --get commit.template [10ms]
+2023-10-07 00:15:05.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 00:15:05.972 [info] > git status -z -uall [4ms]
+2023-10-07 00:15:37.817 [info] > git config --get commit.template [1ms]
+2023-10-07 00:15:37.824 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 00:15:37.831 [info] > git status -z -uall [2ms]
+2023-10-07 00:26:29.461 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 00:26:29.461 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:26:29.478 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:26:29.478 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:26:29.485 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:26:29.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:26:34.000 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:26:34.000 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:26:34.073 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:26:34.073 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:26:34.085 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:26:34.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:32:23.013 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-07 00:32:23.013 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:32:23.025 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 00:32:23.025 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:32:23.034 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:32:23.034 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:32:27.535 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:32:27.535 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:32:27.590 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:32:27.590 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:32:27.597 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:32:27.597 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:36:07.250 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-07 00:36:07.250 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:36:07.258 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:36:07.258 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:36:07.265 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:36:07.266 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:36:09.653 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:36:09.653 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:36:09.706 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:36:09.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:36:09.716 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:36:09.716 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:40:40.430 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-07 00:40:40.430 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:40:40.436 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:40:40.436 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:40:40.442 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 00:40:40.442 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:40:43.020 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:40:43.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:40:43.115 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:40:43.115 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:40:43.125 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:40:43.125 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:43:58.927 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 00:43:58.927 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:43:58.954 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:43:58.954 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:43:58.961 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:43:58.961 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:44:02.516 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:44:02.516 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:44:02.571 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:44:02.571 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:44:02.580 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:44:02.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:52:31.527 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-07 00:52:31.527 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:52:31.537 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 00:52:31.537 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:52:31.548 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 00:52:31.548 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:52:33.936 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:52:33.936 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:52:33.977 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:52:33.977 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:52:33.986 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:52:33.986 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:46.234 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:59:46.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:46.246 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:59:46.246 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:46.257 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:59:46.257 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:46.636 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 00:59:46.636 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:46.644 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 00:59:46.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:46.651 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:59:46.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:49.909 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:59:49.909 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:49.961 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:59:49.961 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 00:59:49.968 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 00:59:49.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:07.561 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:07.561 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:07.569 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:07.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:07.578 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:07.578 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:10.630 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 01:00:10.630 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:10.639 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:10.639 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:10.646 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:10.646 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:10.652 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:10.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:14.172 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:14.172 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:00:14.183 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:00:14.183 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:01:58.056 [info] > git config --get commit.template [6ms]
+2023-10-07 01:01:58.056 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 01:01:58.063 [info] > git status -z -uall [2ms]
+2023-10-07 01:02:05.686 [info] > git config --get commit.template [5ms]
+2023-10-07 01:02:05.686 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 01:02:05.693 [info] > git status -z -uall [3ms]
+2023-10-07 01:14:15.333 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 01:14:15.333 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:14:19.859 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:14:19.859 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:18:28.798 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 01:18:28.798 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:18:32.507 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:18:32.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:18:42.902 [info] > git config --get commit.template [5ms]
+2023-10-07 01:18:42.902 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 01:18:42.909 [info] > git status -z -uall [3ms]
+2023-10-07 01:21:23.505 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-07 01:21:23.505 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:21:23.514 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 01:21:23.514 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:21:23.523 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 01:21:23.523 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:22:47.063 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 01:22:47.063 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:22:47.071 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:22:47.071 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:22:47.076 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:22:47.076 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:22:48.339 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 01:22:48.339 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:22:48.345 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:22:48.345 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:23:37.071 [info] > git config --get commit.template [5ms]
+2023-10-07 01:23:37.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 01:23:37.079 [info] > git status -z -uall [3ms]
+2023-10-07 01:23:47.251 [info] > git config --get commit.template [5ms]
+2023-10-07 01:23:47.251 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 01:23:47.257 [info] > git status -z -uall [2ms]
+2023-10-07 01:24:35.334 [info] > git config --get commit.template [6ms]
+2023-10-07 01:24:35.335 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-07 01:24:35.343 [info] > git status -z -uall [3ms]
+2023-10-07 01:26:23.659 [info] > git config --get commit.template [9ms]
+2023-10-07 01:26:23.659 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-07 01:26:23.668 [info] > git status -z -uall [3ms]
+2023-10-07 01:26:27.394 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 01:26:27.394 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:26:27.404 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:26:27.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 01:26:27.411 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 01:26:27.411 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 02:19:34.113 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-07 02:19:34.113 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 02:19:34.123 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 02:19:34.123 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 02:19:38.487 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 02:19:38.487 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 02:19:38.493 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-07 02:19:38.493 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 02:19:38.499 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-07 02:19:38.499 [info] fatal: not a git repository (or any of the parent directories): .git

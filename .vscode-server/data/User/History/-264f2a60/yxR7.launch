@@ -1,0 +1,13 @@
+<launch>
+    <!-- Launch the rosbridge server
+    <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/> -->
+
+    <!-- Run the 6-wheel control node -->
+    <node pkg="hpc_control" type="twist_6wheel.py" name="twist_6wheel"/>
+
+    <!-- Run the UTM GPS publisher node -->
+    <node pkg="hpc_gps_pkg" type="utm_publisher.py" name="utm_publisher"/>
+
+    <!-- Run the GPS path publisher node -->
+    <node pkg="hpc_gps_pkg" type="path_publisher.py" name="path_publisher"/>
+</launch>

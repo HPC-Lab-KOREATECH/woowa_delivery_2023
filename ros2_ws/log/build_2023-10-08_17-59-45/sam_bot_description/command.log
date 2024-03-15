@@ -1,0 +1,4 @@
+Invoking command in '/root/ros2_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /root/ros2_ws/build/sam_bot_description -- -j24 -l24
+Invoked command in '/root/ros2_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /root/ros2_ws/build/sam_bot_description -- -j24 -l24
+Invoking command in '/root/ros2_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /root/ros2_ws/build/sam_bot_description
+Invoked command in '/root/ros2_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /root/ros2_ws/build/sam_bot_description

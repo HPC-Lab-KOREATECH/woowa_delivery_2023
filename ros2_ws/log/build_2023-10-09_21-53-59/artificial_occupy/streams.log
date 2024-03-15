@@ -1,0 +1,22 @@
+[0.158s] Invoking command in '/root/ros2_ws/build/artificial_occupy': CMAKE_PREFIX_PATH=/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/artificial_occupy:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic:/root/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /root/ros2_ws/build/artificial_occupy -- -j24 -l24
+[0.307s] [100%] Built target artificial_occupy
+[0.457s] Invoked command in '/root/ros2_ws/build/artificial_occupy' returned '0': CMAKE_PREFIX_PATH=/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/artificial_occupy:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic:/root/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /root/ros2_ws/build/artificial_occupy -- -j24 -l24
+[0.482s] Invoking command in '/root/ros2_ws/build/artificial_occupy': CMAKE_PREFIX_PATH=/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/artificial_occupy:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic:/root/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /root/ros2_ws/build/artificial_occupy
+[0.487s] -- Install configuration: ""
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/lib/artificial_occupy/artificial_occupy
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/package_run_dependencies/artificial_occupy
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/parent_prefix_path/artificial_occupy
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/ament_prefix_path.sh
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/ament_prefix_path.dsv
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/path.sh
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/path.dsv
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.bash
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.sh
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.zsh
+[0.488s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.dsv
+[0.488s] -- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/package.dsv
+[0.489s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/packages/artificial_occupy
+[0.489s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/cmake/artificial_occupyConfig.cmake
+[0.489s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/cmake/artificial_occupyConfig-version.cmake
+[0.489s] -- Up-to-date: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/package.xml
+[0.489s] Invoked command in '/root/ros2_ws/build/artificial_occupy' returned '0': CMAKE_PREFIX_PATH=/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/artificial_occupy:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic:/root/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /root/ros2_ws/build/artificial_occupy

@@ -1,0 +1,41 @@
+[0.767s] Invoking command in '/root/ros2_ws/src/nav2_gps_waypoint_follower_demo': PYTHONPATH=/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/prefix_override:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/nav2_gps_waypoint_follower_demo build --build-base /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build install --record /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log --single-version-externally-managed
+[0.888s] running egg_info
+[0.952s] writing ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/PKG-INFO
+[0.952s] writing dependency_links to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/dependency_links.txt
+[0.953s] writing entry points to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/entry_points.txt
+[0.953s] writing requirements to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/requires.txt
+[0.953s] writing top-level names to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/top_level.txt
+[0.971s] reading manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'
+[0.972s] writing manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'
+[0.972s] running build
+[0.972s] running build_py
+[0.972s] copying nav2_gps_waypoint_follower_demo/woowa_planning.py -> /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build/lib/nav2_gps_waypoint_follower_demo
+[0.972s] running install
+[0.972s] /usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.972s] !!
+[0.972s] 
+[0.972s]         ********************************************************************************
+[0.972s]         Please avoid running ``setup.py`` directly.
+[0.972s]         Instead, use pypa/build, pypa/installer or other
+[0.972s]         standards-based tools.
+[0.972s] 
+[0.973s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.973s]         ********************************************************************************
+[0.973s] 
+[0.973s] !!
+[0.973s]   self.initialize_options()
+[0.975s] running install_lib
+[0.983s] copying /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build/lib/nav2_gps_waypoint_follower_demo/woowa_planning.py -> /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo
+[0.984s] byte-compiling /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo/woowa_planning.py to woowa_planning.cpython-38.pyc
+[0.984s] running install_data
+[0.992s] running install_egg_info
+[1.000s] removing '/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo-0.0.1-py3.8.egg-info' (and everything under it)
+[1.000s] Copying ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo-0.0.1-py3.8.egg-info
+[1.000s] running install_scripts
+[1.027s] Installing gps_waypoint_logger script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo
+[1.027s] Installing interactive_waypoint_follower script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo
+[1.027s] Installing logged_waypoint_follower script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo
+[1.027s] Installing save_pose script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo
+[1.027s] Installing woowa_planning script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo
+[1.027s] writing list of installed files to '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log'
+[1.042s] Invoked command in '/root/ros2_ws/src/nav2_gps_waypoint_follower_demo' returned '0': PYTHONPATH=/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/prefix_override:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/nav2_gps_waypoint_follower_demo build --build-base /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build install --record /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log --single-version-externally-managed

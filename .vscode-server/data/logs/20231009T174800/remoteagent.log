@@ -1,0 +1,11 @@
+2023-10-09 17:48:00.911 [info] 
+
+
+
+
+2023-10-09 17:48:00.918 [info] Extension host agent started.
+2023-10-09 17:48:00.935 [debug] No uninstalled extensions found.
+2023-10-09 17:48:02.704 [info] [127.0.0.1][a6ae3bf6][ManagementConnection] New connection established.
+2023-10-09 17:48:02.723 [info] Log level changed to info
+2023-10-09 17:48:02.949 [info] [127.0.0.1][c526b33c][ExtensionHostConnection] New connection established.
+2023-10-09 17:48:02.951 [info] [127.0.0.1][c526b33c][ExtensionHostConnection] <490> Launched Extension Host Process.

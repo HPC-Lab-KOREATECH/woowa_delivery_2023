@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<metadata>
+  <document uri="file:///opt/ros/galactic/share/nav2_bringup/params" atime="1696771405905">
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///root/ros2_ws/src/nav2_gps_waypoint_follower_demo/config/nav2_no_map_params.yaml" atime="1696851470972">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="13801"/>
+  </document>
+  <document uri="file:///opt/ros/galactic/share/nav2_bt_navigator/behavior_trees/navigate_to_pose_w_replanning_and_recovery.xml" atime="1696798750310">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="1513"/>
+  </document>
+  <document uri="file:///root/home/Downloads/catkin_ws/catkin_ws/nav2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/robot_navigator.py" atime="1696807351069">
+    <entry key="gedit-position" value="2013"/>
+  </document>
+  <document uri="file:///root/.bashrc" atime="1696848949034">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="2864"/>
+  </document>
+  <document uri="file:///opt/ros/galactic/share/nav2_simple_commander/nav_through_poses_example_launch.py" atime="1696804319861">
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///opt/ros/galactic/share/nav2_bt_navigator/behavior_trees/navigate_through_poses_w_replanning_and_recovery.xml" atime="1696798333037">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+  </document>
+  <document uri="file:///opt/ros/galactic/share/velodyne_driver/config/VLP16-velodyne_driver_node-params.yaml" atime="1696494324132">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="245"/>
+  </document>
+</metadata>

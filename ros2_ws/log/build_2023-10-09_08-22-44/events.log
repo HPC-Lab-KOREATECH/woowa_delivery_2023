@@ -1,0 +1,160 @@
+[0.000000] (-) TimerEvent: {}
+[0.000275] (nav2_gps_waypoint_follower_demo) JobQueued: {'identifier': 'nav2_gps_waypoint_follower_demo', 'dependencies': OrderedDict()}
+[0.000343] (sam_bot_description) JobQueued: {'identifier': 'sam_bot_description', 'dependencies': OrderedDict()}
+[0.000354] (sensors) JobQueued: {'identifier': 'sensors', 'dependencies': OrderedDict()}
+[0.000578] (nav2_gps_waypoint_follower_demo) JobStarted: {'identifier': 'nav2_gps_waypoint_follower_demo'}
+[0.027933] (sam_bot_description) JobStarted: {'identifier': 'sam_bot_description'}
+[0.049453] (sensors) JobStarted: {'identifier': 'sensors'}
+[0.100078] (-) TimerEvent: {}
+[0.201405] (-) TimerEvent: {}
+[0.306825] (-) TimerEvent: {}
+[0.407858] (-) TimerEvent: {}
+[0.508790] (-) TimerEvent: {}
+[0.609735] (-) TimerEvent: {}
+[0.710682] (-) TimerEvent: {}
+[0.816582] (-) TimerEvent: {}
+[0.919110] (-) TimerEvent: {}
+[1.020262] (-) TimerEvent: {}
+[1.070115] (sam_bot_description) JobProgress: {'identifier': 'sam_bot_description', 'progress': 'cmake'}
+[1.072057] (sam_bot_description) JobProgress: {'identifier': 'sam_bot_description', 'progress': 'build'}
+[1.073013] (sam_bot_description) Command: {'cmd': ['/usr/bin/cmake', '--build', '/root/ros2_ws/build/sam_bot_description', '--', '-j24', '-l24'], 'cwd': '/root/ros2_ws/build/sam_bot_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/catkin_ws'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:d3d2dbde-206c-4749-ba44-211a3adf7b43'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/sam_bot_description'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[1.120339] (-) TimerEvent: {}
+[1.220784] (-) TimerEvent: {}
+[1.322162] (-) TimerEvent: {}
+[1.325050] (sam_bot_description) CommandEnded: {'returncode': 0}
+[1.345561] (sam_bot_description) JobProgress: {'identifier': 'sam_bot_description', 'progress': 'install'}
+[1.357001] (sam_bot_description) Command: {'cmd': ['/usr/bin/cmake', '--install', '/root/ros2_ws/build/sam_bot_description'], 'cwd': '/root/ros2_ws/build/sam_bot_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/catkin_ws'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:d3d2dbde-206c-4749-ba44-211a3adf7b43'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/sam_bot_description'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[1.368974] (sam_bot_description) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[1.369706] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/src\n'}
+[1.370328] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description\n'}
+[1.370864] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/woowa.urdf\n'}
+[1.371566] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch\n'}
+[1.373980] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py\n'}
+[1.374894] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/__pycache__\n'}
+[1.375586] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/__pycache__/display.launch.cpython-38.pyc\n'}
+[1.376184] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz\n'}
+[1.376426] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config.rviz\n'}
+[1.376618] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/config\n'}
+[1.376973] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/ekf.yaml\n'}
+[1.377244] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description\n'}
+[1.377536] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/parent_prefix_path/sam_bot_description\n'}
+[1.377678] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.sh\n'}
+[1.377854] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.dsv\n'}
+[1.377990] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.sh\n'}
+[1.378120] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.dsv\n'}
+[1.378198] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.bash\n'}
+[1.378357] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.sh\n'}
+[1.378443] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.zsh\n'}
+[1.378497] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.dsv\n'}
+[1.378547] (sam_bot_description) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.dsv\n'}
+[1.378602] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/packages/sam_bot_description\n'}
+[1.378758] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig.cmake\n'}
+[1.378869] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig-version.cmake\n'}
+[1.379044] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.xml\n'}
+[1.379129] (sam_bot_description) CommandEnded: {'returncode': 0}
+[1.422322] (-) TimerEvent: {}
+[1.495135] (sam_bot_description) JobEnded: {'identifier': 'sam_bot_description', 'rc': 0}
+[1.522398] (-) TimerEvent: {}
+[1.622636] (-) TimerEvent: {}
+[1.722881] (-) TimerEvent: {}
+[1.823232] (-) TimerEvent: {}
+[1.888443] (sensors) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/sensors', 'build', '--build-base', '/root/ros2_ws/build/sensors/build', 'install', '--record', '/root/ros2_ws/build/sensors/install.log', '--install-scripts', '$base/lib/sensors', '--single-version-externally-managed'], 'cwd': '/root/ros2_ws/src/sensors', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'HOSTNAME': 'daniel', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib', 'HOME': '/root', 'OLDPWD': '/root/catkin_ws', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35', 'COLCON_PREFIX_PATH': '/root/ros2_ws/install', 'ROS_DISTRO': 'galactic', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'DISPLAY': 'unix:0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic', 'TERMINATOR_UUID': 'urn:uuid:d3d2dbde-206c-4749-ba44-211a3adf7b43', 'ROS_MASTER_URI': 'http://localhost:11311', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/root/ros2_ws/build/sensors', 'PYTHONPATH': '/root/ros2_ws/build/sensors/prefix_override:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/root/ros2_ws/install/sam_bot_description'}, 'shell': False}
+[1.892444] (nav2_gps_waypoint_follower_demo) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/nav2_gps_waypoint_follower_demo', 'build', '--build-base', '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build', 'install', '--record', '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log', '--single-version-externally-managed'], 'cwd': '/root/ros2_ws/src/nav2_gps_waypoint_follower_demo', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'HOSTNAME': 'daniel', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib', 'HOME': '/root', 'OLDPWD': '/root/catkin_ws', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35', 'COLCON_PREFIX_PATH': '/root/ros2_ws/install', 'ROS_DISTRO': 'galactic', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'DISPLAY': 'unix:0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic', 'TERMINATOR_UUID': 'urn:uuid:d3d2dbde-206c-4749-ba44-211a3adf7b43', 'ROS_MASTER_URI': 'http://localhost:11311', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo', 'PYTHONPATH': '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/prefix_override:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/root/ros2_ws/install/sam_bot_description'}, 'shell': False}
+[1.923444] (-) TimerEvent: {}
+[2.017019] (sensors) StderrLine: {'line': b'/usr/local/lib/python3.8/dist-packages/setuptools/dist.py:498: SetuptoolsDeprecationWarning: Invalid dash-separated options\n'}
+[2.017247] (sensors) StderrLine: {'line': b'!!\n'}
+[2.017302] (sensors) StderrLine: {'line': b'\n'}
+[2.017344] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.017387] (sensors) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[2.017425] (sensors) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[2.017463] (sensors) StderrLine: {'line': b'\n'}
+[2.017498] (sensors) StderrLine: {'line': b'        This deprecation is overdue, please update your project and remove deprecated\n'}
+[2.017536] (sensors) StderrLine: {'line': b'        calls to avoid build errors in the future.\n'}
+[2.017570] (sensors) StderrLine: {'line': b'\n'}
+[2.017605] (sensors) StderrLine: {'line': b'        See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.\n'}
+[2.017641] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.017675] (sensors) StderrLine: {'line': b'\n'}
+[2.017708] (sensors) StderrLine: {'line': b'!!\n'}
+[2.017744] (sensors) StderrLine: {'line': b'  opt = self.warn_dash_deprecation(opt, section)\n'}
+[2.023474] (-) TimerEvent: {}
+[2.093578] (sensors) StdoutLine: {'line': b'running egg_info\n'}
+[2.106923] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running egg_info\n'}
+[2.123641] (-) TimerEvent: {}
+[2.189230] (sensors) StdoutLine: {'line': b'writing ../../build/sensors/sensors.egg-info/PKG-INFO\n'}
+[2.189646] (sensors) StdoutLine: {'line': b'writing dependency_links to ../../build/sensors/sensors.egg-info/dependency_links.txt\n'}
+[2.189816] (sensors) StdoutLine: {'line': b'writing entry points to ../../build/sensors/sensors.egg-info/entry_points.txt\n'}
+[2.189942] (sensors) StdoutLine: {'line': b'writing requirements to ../../build/sensors/sensors.egg-info/requires.txt\n'}
+[2.190046] (sensors) StdoutLine: {'line': b'writing top-level names to ../../build/sensors/sensors.egg-info/top_level.txt\n'}
+[2.203360] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/PKG-INFO\n'}
+[2.203747] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing dependency_links to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/dependency_links.txt\n'}
+[2.203927] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing entry points to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/entry_points.txt\n'}
+[2.204048] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing requirements to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/requires.txt\n'}
+[2.204198] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing top-level names to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/top_level.txt\n'}
+[2.212026] (sensors) StdoutLine: {'line': b"reading manifest file '../../build/sensors/sensors.egg-info/SOURCES.txt'\n"}
+[2.213056] (sensors) StdoutLine: {'line': b"writing manifest file '../../build/sensors/sensors.egg-info/SOURCES.txt'\n"}
+[2.213330] (sensors) StdoutLine: {'line': b'running build\n'}
+[2.213428] (sensors) StdoutLine: {'line': b'running build_py\n'}
+[2.213754] (sensors) StdoutLine: {'line': b'running install\n'}
+[2.214036] (sensors) StderrLine: {'line': b'/usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[2.214135] (sensors) StderrLine: {'line': b'!!\n'}
+[2.214209] (sensors) StderrLine: {'line': b'\n'}
+[2.214726] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.215150] (sensors) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[2.215501] (sensors) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[2.215853] (sensors) StderrLine: {'line': b'        standards-based tools.\n'}
+[2.216194] (sensors) StderrLine: {'line': b'\n'}
+[2.216513] (sensors) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[2.216856] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.217164] (sensors) StderrLine: {'line': b'\n'}
+[2.217458] (sensors) StderrLine: {'line': b'!!\n'}
+[2.217759] (sensors) StderrLine: {'line': b'  self.initialize_options()\n'}
+[2.219103] (sensors) StdoutLine: {'line': b'running install_lib\n'}
+[2.223808] (-) TimerEvent: {}
+[2.233384] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"reading manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'\n"}
+[2.234323] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"writing manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'\n"}
+[2.234602] (sensors) StdoutLine: {'line': b'running install_data\n'}
+[2.234682] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running build\n'}
+[2.234737] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running build_py\n'}
+[2.234813] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'copying nav2_gps_waypoint_follower_demo/woowa_planning.py -> /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build/lib/nav2_gps_waypoint_follower_demo\n'}
+[2.235572] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install\n'}
+[2.235800] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'/usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[2.235892] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'!!\n'}
+[2.235939] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'\n'}
+[2.235979] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.236020] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[2.236061] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[2.236149] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        standards-based tools.\n'}
+[2.236195] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'\n'}
+[2.236232] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[2.236272] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.236310] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'\n'}
+[2.236350] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'!!\n'}
+[2.236403] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'  self.initialize_options()\n'}
+[2.239955] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_lib\n'}
+[2.245778] (sensors) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.251761] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'copying /root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build/lib/nav2_gps_waypoint_follower_demo/woowa_planning.py -> /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo\n'}
+[2.252381] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'byte-compiling /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo/woowa_planning.py to woowa_planning.cpython-38.pyc\n'}
+[2.253481] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_data\n'}
+[2.259262] (sensors) StdoutLine: {'line': b"removing '/root/ros2_ws/install/sensors/lib/python3.8/site-packages/sensors-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[2.259546] (sensors) StdoutLine: {'line': b'Copying ../../build/sensors/sensors.egg-info to /root/ros2_ws/install/sensors/lib/python3.8/site-packages/sensors-0.0.0-py3.8.egg-info\n'}
+[2.260257] (sensors) StdoutLine: {'line': b'running install_scripts\n'}
+[2.265666] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.279664] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"removing '/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo-0.0.1-py3.8.egg-info' (and everything under it)\n"}
+[2.281591] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Copying ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo-0.0.1-py3.8.egg-info\n'}
+[2.282480] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_scripts\n'}
+[2.302650] (sensors) StdoutLine: {'line': b'Installing imu script to /root/ros2_ws/install/sensors/lib/sensors\n'}
+[2.302931] (sensors) StdoutLine: {'line': b'Installing tf script to /root/ros2_ws/install/sensors/lib/sensors\n'}
+[2.303182] (sensors) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/sensors/install.log'\n"}
+[2.323956] (-) TimerEvent: {}
+[2.325431] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing gps_waypoint_logger script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[2.326335] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing interactive_waypoint_follower script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[2.326797] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing logged_waypoint_follower script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[2.327172] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing save_pose script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[2.327495] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing woowa_planning script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[2.327833] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log'\n"}
+[2.334937] (sensors) CommandEnded: {'returncode': 0}
+[2.383819] (sensors) JobEnded: {'identifier': 'sensors', 'rc': 0}
+[2.386634] (nav2_gps_waypoint_follower_demo) CommandEnded: {'returncode': 0}
+[2.424399] (-) TimerEvent: {}
+[2.426509] (nav2_gps_waypoint_follower_demo) JobEnded: {'identifier': 'nav2_gps_waypoint_follower_demo', 'rc': 0}
+[2.427551] (-) EventReactorShutdown: {}

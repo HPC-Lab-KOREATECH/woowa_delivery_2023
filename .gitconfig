@@ -1,0 +1,10 @@
+[user]
+	name = hongsm-morai
+	email = smhong@morai.ai
+	password = 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
+[http]
+	sslVerify = false
+[safe]
+	directory = /tmp/.X11-unix/catkin_ws/src
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/node /tmp/vscode-remote-containers-2ea6e9b2-368f-4806-8726-15bc7d3e05a2.js git-credential-helper $*; }; f"

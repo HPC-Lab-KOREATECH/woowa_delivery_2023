@@ -1,0 +1,49 @@
+2023-10-09 03:30:02.195 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-09 03:30:02.195 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-09 03:30:02.195 [info] Experiment 'pythonSurveyNotification' is active
+2023-10-09 03:30:02.195 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-10-09 03:30:02.362 [info] Test server listening.
+2023-10-09 03:30:02.403 [info] Python interpreter path: /bin/python3
+2023-10-09 03:30:02.943 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-09 03:30:02.943 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-09 03:30:02.943 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-09 03:30:02.989 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-09 03:30:03.697 [info] Starting Pylance language server.
+2023-10-09 03:30:57.543 [info] Discover tests for workspace name: root - uri: /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py
+2023-10-09 03:31:07.410 [info] Discover tests for workspace name: root - uri: /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py
+2023-10-09 03:31:20.497 [info] Discover tests for workspace name: root - uri: /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py
+2023-10-09 03:31:21.855 [info] Discover tests for workspace name: root - uri: /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py
+2023-10-09 03:31:33.033 [info] Discover tests for workspace name: root - uri: /root/catkin_ws/src/hpc_gps_pkg/scripts/path_publisher.py
+2023-10-09 03:35:31.853 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 03:36:13.337 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 03:41:18.081 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:30:22.700 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:30:43.372 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:32:26.327 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:32:39.500 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:38:57.565 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:40:13.923 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:40:20.618 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:40:27.884 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:41:17.723 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:41:19.717 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:42:44.160 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 05:56:29.537 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:20:45.762 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:20:46.323 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:20:46.851 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:21:01.865 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:21:08.757 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:21:28.881 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:27:02.247 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:30:29.353 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:30:44.325 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:32:52.043 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:40:04.883 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:40:06.759 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:40:07.056 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:40:10.211 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 06:40:50.041 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 07:23:01.612 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 07:23:01.875 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py
+2023-10-09 07:32:15.663 [info] Discover tests for workspace name: root - uri: /root/ros2_ws/src/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo/woowa_planning.py

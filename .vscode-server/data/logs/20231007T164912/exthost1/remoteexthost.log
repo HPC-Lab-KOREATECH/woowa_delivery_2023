@@ -1,0 +1,38 @@
+2023-10-07 16:49:13.854 [info] Extension host with pid 23416 started
+2023-10-07 16:49:13.863 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock'
+2023-10-07 16:49:13.878 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-07 16:49:13.879 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': The pid 17313 appears to be gone.
+2023-10-07 16:49:13.879 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': Deleting a stale lock.
+2023-10-07 16:49:13.890 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': Lock acquired.
+2023-10-07 16:49:14.552 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-07 16:49:14.553 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-07 16:49:15.063 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-07 16:49:15.358 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-07 16:49:15.554 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-07 16:49:15.952 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-07 16:49:15.952 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-07 16:49:16.151 [info] Eager extensions activated
+2023-10-07 16:49:16.152 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-07 16:49:16.152 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-07 19:41:21.648 [error] [ms-python.python] provider FAILED
+2023-10-07 19:41:21.648 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:72077
+	at _0x552b27 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:83897)
+	at async pe.provideCompletionItems (/root/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-10-07 20:25:52.345 [error] [ms-python.python] provider FAILED
+2023-10-07 20:25:52.345 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:72077
+	at _0x552b27 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:83897)
+	at async pe.provideCompletionItems (/root/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-10-08 17:58:15.764 [error] [ms-python.python] provider FAILED
+2023-10-08 17:58:15.764 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:72077
+	at _0x552b27 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:83897)
+	at async pe.provideCompletionItems (/root/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-10-08 20:31:10.052 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-10-08 20:31:10.053 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-10-08 20:31:10.054 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-10-08 22:03:14.365 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2023-10-08 22:03:14.366 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2023-10-08 22:03:14.366 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2023-10-08 22:03:14.366 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onTaskType:typescript'

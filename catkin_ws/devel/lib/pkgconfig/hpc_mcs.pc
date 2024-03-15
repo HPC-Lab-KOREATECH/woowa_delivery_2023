@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel
+
+Name: hpc_mcs
+Description: Description of hpc_mcs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,24 @@
+2023-10-09 17:48:03.511 [info] Extension host with pid 490 started
+2023-10-09 17:48:03.512 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock'
+2023-10-09 17:48:03.513 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-09 17:48:03.514 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': The pid 705 appears to be gone.
+2023-10-09 17:48:03.514 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': Deleting a stale lock.
+2023-10-09 17:48:03.521 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3d324eb9e6be27c3098238e5af1b593f/vscode.lock': Lock acquired.
+2023-10-09 17:48:03.536 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-09 17:48:03.536 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-09 17:48:03.775 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-09 17:48:03.960 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-09 17:48:04.166 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-09 17:48:04.166 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-09 17:48:04.236 [info] Eager extensions activated
+2023-10-09 17:48:04.236 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-09 17:48:04.236 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-09 17:48:04.499 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-09 18:42:21.889 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-10-09 18:42:21.889 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-10-09 18:42:21.889 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-10-09 18:47:29.103 [error] [ms-python.python] provider FAILED
+2023-10-09 18:47:29.103 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:72077
+	at _0x552b27 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10/dist/extension.bundle.js:1:83897)
+	at async pe.provideCompletionItems (/root/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)

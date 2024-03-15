@@ -1,0 +1,275 @@
+[0.000000] (-) TimerEvent: {}
+[0.000138] (artificial_occupy) JobQueued: {'identifier': 'artificial_occupy', 'dependencies': OrderedDict()}
+[0.000259] (nav2_gps_waypoint_follower_demo) JobQueued: {'identifier': 'nav2_gps_waypoint_follower_demo', 'dependencies': OrderedDict()}
+[0.000319] (sam_bot_description) JobQueued: {'identifier': 'sam_bot_description', 'dependencies': OrderedDict()}
+[0.000327] (sensors) JobQueued: {'identifier': 'sensors', 'dependencies': OrderedDict()}
+[0.000353] (artificial_occupy) JobStarted: {'identifier': 'artificial_occupy'}
+[0.020352] (nav2_gps_waypoint_follower_demo) JobStarted: {'identifier': 'nav2_gps_waypoint_follower_demo'}
+[0.044268] (sam_bot_description) JobStarted: {'identifier': 'sam_bot_description'}
+[0.066181] (sensors) JobStarted: {'identifier': 'sensors'}
+[0.090663] (artificial_occupy) JobProgress: {'identifier': 'artificial_occupy', 'progress': 'cmake'}
+[0.090791] (artificial_occupy) Command: {'cmd': ['/usr/bin/cmake', '/root/ros2_ws/src/artificial_occupy', '-DCMAKE_INSTALL_PREFIX=/root/ros2_ws/install/artificial_occupy'], 'cwd': '/root/ros2_ws/build/artificial_occupy', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/ros2_ws/src'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/artificial_occupy'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[0.099931] (-) TimerEvent: {}
+[0.200388] (-) TimerEvent: {}
+[0.201342] (sam_bot_description) JobProgress: {'identifier': 'sam_bot_description', 'progress': 'cmake'}
+[0.201706] (sam_bot_description) JobProgress: {'identifier': 'sam_bot_description', 'progress': 'build'}
+[0.202180] (sam_bot_description) Command: {'cmd': ['/usr/bin/cmake', '--build', '/root/ros2_ws/build/sam_bot_description', '--', '-j24', '-l24'], 'cwd': '/root/ros2_ws/build/sam_bot_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/ros2_ws/src'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/sam_bot_description'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[0.204630] (artificial_occupy) StdoutLine: {'line': b'-- The C compiler identification is GNU 9.4.0\n'}
+[0.205302] (artificial_occupy) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 9.4.0\n'}
+[0.208906] (artificial_occupy) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[0.246512] (artificial_occupy) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[0.247200] (artificial_occupy) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.282313] (artificial_occupy) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.287551] (artificial_occupy) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.287810] (artificial_occupy) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.289424] (artificial_occupy) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[0.300393] (-) TimerEvent: {}
+[0.327858] (sam_bot_description) CommandEnded: {'returncode': 0}
+[0.329784] (artificial_occupy) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[0.330649] (artificial_occupy) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.337996] (sam_bot_description) JobProgress: {'identifier': 'sam_bot_description', 'progress': 'install'}
+[0.344090] (sam_bot_description) Command: {'cmd': ['/usr/bin/cmake', '--install', '/root/ros2_ws/build/sam_bot_description'], 'cwd': '/root/ros2_ws/build/sam_bot_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/ros2_ws/src'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/sam_bot_description'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[0.349657] (sam_bot_description) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[0.349872] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/src\n'}
+[0.349973] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description\n'}
+[0.350062] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/woowa.urdf\n'}
+[0.350158] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch\n'}
+[0.350216] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py\n'}
+[0.350282] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/__pycache__\n'}
+[0.350359] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/__pycache__/display.launch.cpython-38.pyc\n'}
+[0.350414] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz\n'}
+[0.350466] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config.rviz\n'}
+[0.350519] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/config\n'}
+[0.350572] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/ekf.yaml\n'}
+[0.350624] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description\n'}
+[0.350676] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/parent_prefix_path/sam_bot_description\n'}
+[0.350728] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.sh\n'}
+[0.350780] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.dsv\n'}
+[0.350954] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.sh\n'}
+[0.351128] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.dsv\n'}
+[0.351535] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.bash\n'}
+[0.351611] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.sh\n'}
+[0.351759] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.zsh\n'}
+[0.351826] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.dsv\n'}
+[0.351969] (sam_bot_description) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.dsv\n'}
+[0.352195] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/packages/sam_bot_description\n'}
+[0.352287] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig.cmake\n'}
+[0.352322] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig-version.cmake\n'}
+[0.352350] (sam_bot_description) StdoutLine: {'line': b'-- Up-to-date: /root/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.xml\n'}
+[0.352418] (sam_bot_description) CommandEnded: {'returncode': 0}
+[0.371144] (artificial_occupy) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.376979] (artificial_occupy) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.377127] (artificial_occupy) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.380408] (artificial_occupy) StdoutLine: {'line': b'-- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)\n'}
+[0.395268] (artificial_occupy) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") \n'}
+[0.395411] (artificial_occupy) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[0.400473] (-) TimerEvent: {}
+[0.400919] (sam_bot_description) JobEnded: {'identifier': 'sam_bot_description', 'rc': 0}
+[0.449336] (artificial_occupy) StdoutLine: {'line': b'-- Found rclcpp: 9.2.2 (/opt/ros/galactic/share/rclcpp/cmake)\n'}
+[0.487281] (artificial_occupy) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.492837] (artificial_occupy) StdoutLine: {'line': b'-- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)\n'}
+[0.500545] (-) TimerEvent: {}
+[0.550108] (artificial_occupy) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  \n'}
+[0.572401] (artificial_occupy) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/galactic/include  \n'}
+[0.591712] (sensors) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/sensors', 'build', '--build-base', '/root/ros2_ws/build/sensors/build', 'install', '--record', '/root/ros2_ws/build/sensors/install.log', '--install-scripts', '$base/lib/sensors', '--single-version-externally-managed'], 'cwd': '/root/ros2_ws/src/sensors', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'HOSTNAME': 'daniel', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib', 'HOME': '/root', 'OLDPWD': '/root/ros2_ws/src', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35', 'COLCON_PREFIX_PATH': '/root/ros2_ws/install', 'ROS_DISTRO': 'galactic', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'DISPLAY': 'unix:0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic', 'TERMINATOR_UUID': 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009', 'ROS_MASTER_URI': 'http://localhost:11311', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/root/ros2_ws/build/sensors', 'PYTHONPATH': '/root/ros2_ws/build/sensors/prefix_override:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/root/ros2_ws/install/sam_bot_description'}, 'shell': False}
+[0.594502] (nav2_gps_waypoint_follower_demo) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/nav2_gps_waypoint_follower_demo', 'build', '--build-base', '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/build', 'install', '--record', '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log', '--single-version-externally-managed'], 'cwd': '/root/ros2_ws/src/nav2_gps_waypoint_follower_demo', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'HOSTNAME': 'daniel', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib', 'HOME': '/root', 'OLDPWD': '/root/ros2_ws/src', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35', 'COLCON_PREFIX_PATH': '/root/ros2_ws/install', 'ROS_DISTRO': 'galactic', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'DISPLAY': 'unix:0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic', 'TERMINATOR_UUID': 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009', 'ROS_MASTER_URI': 'http://localhost:11311', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo', 'PYTHONPATH': '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/prefix_override:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/root/ros2_ws/install/sam_bot_description'}, 'shell': False}
+[0.600612] (-) TimerEvent: {}
+[0.630048] (artificial_occupy) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.651981] (sensors) StderrLine: {'line': b'/usr/local/lib/python3.8/dist-packages/setuptools/dist.py:498: SetuptoolsDeprecationWarning: Invalid dash-separated options\n'}
+[0.652099] (sensors) StderrLine: {'line': b'!!\n'}
+[0.652129] (sensors) StderrLine: {'line': b'\n'}
+[0.652155] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.652179] (sensors) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[0.652203] (sensors) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[0.652226] (sensors) StderrLine: {'line': b'\n'}
+[0.652248] (sensors) StderrLine: {'line': b'        This deprecation is overdue, please update your project and remove deprecated\n'}
+[0.652272] (sensors) StderrLine: {'line': b'        calls to avoid build errors in the future.\n'}
+[0.652294] (sensors) StderrLine: {'line': b'\n'}
+[0.652316] (sensors) StderrLine: {'line': b'        See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.\n'}
+[0.652337] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.652362] (sensors) StderrLine: {'line': b'\n'}
+[0.652384] (sensors) StderrLine: {'line': b'!!\n'}
+[0.652405] (sensors) StderrLine: {'line': b'  opt = self.warn_dash_deprecation(opt, section)\n'}
+[0.668953] (artificial_occupy) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)\n'}
+[0.672648] (artificial_occupy) StdoutLine: {'line': b'-- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)\n'}
+[0.687227] (artificial_occupy) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_cyclonedds_cpp' as default\n"}
+[0.688087] (artificial_occupy) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[0.689216] (sensors) StdoutLine: {'line': b'running egg_info\n'}
+[0.690595] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running egg_info\n'}
+[0.700689] (-) TimerEvent: {}
+[0.728191] (artificial_occupy) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[0.728315] (artificial_occupy) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[0.736023] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/PKG-INFO\n'}
+[0.736297] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing dependency_links to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/dependency_links.txt\n'}
+[0.736459] (sensors) StdoutLine: {'line': b'writing ../../build/sensors/sensors.egg-info/PKG-INFO\n'}
+[0.736548] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing entry points to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/entry_points.txt\n'}
+[0.736622] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing requirements to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/requires.txt\n'}
+[0.736697] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'writing top-level names to ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/top_level.txt\n'}
+[0.736754] (sensors) StdoutLine: {'line': b'writing dependency_links to ../../build/sensors/sensors.egg-info/dependency_links.txt\n'}
+[0.736875] (sensors) StdoutLine: {'line': b'writing entry points to ../../build/sensors/sensors.egg-info/entry_points.txt\n'}
+[0.736952] (sensors) StdoutLine: {'line': b'writing requirements to ../../build/sensors/sensors.egg-info/requires.txt\n'}
+[0.737013] (sensors) StdoutLine: {'line': b'writing top-level names to ../../build/sensors/sensors.egg-info/top_level.txt\n'}
+[0.749420] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"reading manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'\n"}
+[0.749566] (sensors) StdoutLine: {'line': b"reading manifest file '../../build/sensors/sensors.egg-info/SOURCES.txt'\n"}
+[0.749923] (sensors) StdoutLine: {'line': b"writing manifest file '../../build/sensors/sensors.egg-info/SOURCES.txt'\n"}
+[0.749995] (sensors) StdoutLine: {'line': b'running build\n'}
+[0.750070] (sensors) StdoutLine: {'line': b'running build_py\n'}
+[0.750197] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"writing manifest file '../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info/SOURCES.txt'\n"}
+[0.750246] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running build\n'}
+[0.750272] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running build_py\n'}
+[0.750295] (sensors) StdoutLine: {'line': b'running install\n'}
+[0.750349] (sensors) StderrLine: {'line': b'/usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[0.750377] (sensors) StderrLine: {'line': b'!!\n'}
+[0.750401] (sensors) StderrLine: {'line': b'\n'}
+[0.750423] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.750446] (sensors) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[0.750484] (sensors) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[0.750508] (sensors) StderrLine: {'line': b'        standards-based tools.\n'}
+[0.750530] (sensors) StderrLine: {'line': b'\n'}
+[0.750551] (sensors) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[0.750574] (sensors) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.750597] (sensors) StderrLine: {'line': b'\n'}
+[0.750711] (sensors) StderrLine: {'line': b'!!\n'}
+[0.750759] (sensors) StderrLine: {'line': b'  self.initialize_options()\n'}
+[0.750798] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install\n'}
+[0.750841] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'/usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[0.750892] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'!!\n'}
+[0.750931] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'\n'}
+[0.750968] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.751007] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[0.751044] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[0.751080] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        standards-based tools.\n'}
+[0.751115] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'\n'}
+[0.751149] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[0.751184] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.751220] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'\n'}
+[0.751255] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'!!\n'}
+[0.751290] (nav2_gps_waypoint_follower_demo) StderrLine: {'line': b'  self.initialize_options()\n'}
+[0.753198] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_lib\n'}
+[0.753283] (sensors) StdoutLine: {'line': b'running install_lib\n'}
+[0.759536] (sensors) StdoutLine: {'line': b'running install_data\n'}
+[0.759676] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_data\n'}
+[0.765626] (sensors) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.765836] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.765977] (artificial_occupy) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed\n'}
+[0.766090] (artificial_occupy) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads\n'}
+[0.771887] (sensors) StdoutLine: {'line': b"removing '/root/ros2_ws/install/sensors/lib/python3.8/site-packages/sensors-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[0.772026] (sensors) StdoutLine: {'line': b'Copying ../../build/sensors/sensors.egg-info to /root/ros2_ws/install/sensors/lib/python3.8/site-packages/sensors-0.0.0-py3.8.egg-info\n'}
+[0.772569] (sensors) StdoutLine: {'line': b'running install_scripts\n'}
+[0.776271] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"removing '/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo-0.0.1-py3.8.egg-info' (and everything under it)\n"}
+[0.776605] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Copying ../../build/nav2_gps_waypoint_follower_demo/nav2_gps_waypoint_follower_demo.egg-info to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages/nav2_gps_waypoint_follower_demo-0.0.1-py3.8.egg-info\n'}
+[0.777019] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'running install_scripts\n'}
+[0.792885] (sensors) StdoutLine: {'line': b'Installing imu script to /root/ros2_ws/install/sensors/lib/sensors\n'}
+[0.793046] (sensors) StdoutLine: {'line': b'Installing tf script to /root/ros2_ws/install/sensors/lib/sensors\n'}
+[0.793123] (sensors) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/sensors/install.log'\n"}
+[0.797213] (artificial_occupy) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads - not found\n'}
+[0.797306] (artificial_occupy) StdoutLine: {'line': b'-- Looking for pthread_create in pthread\n'}
+[0.797396] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing gps_waypoint_logger script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[0.797472] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing interactive_waypoint_follower script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[0.797551] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing logged_waypoint_follower script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[0.797618] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing save_pose script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[0.797677] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b'Installing woowa_planning script to /root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/nav2_gps_waypoint_follower_demo\n'}
+[0.797795] (nav2_gps_waypoint_follower_demo) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/nav2_gps_waypoint_follower_demo/install.log'\n"}
+[0.800758] (-) TimerEvent: {}
+[0.805933] (sensors) CommandEnded: {'returncode': 0}
+[0.822751] (sensors) JobEnded: {'identifier': 'sensors', 'rc': 0}
+[0.823375] (nav2_gps_waypoint_follower_demo) CommandEnded: {'returncode': 0}
+[0.834183] (artificial_occupy) StdoutLine: {'line': b'-- Looking for pthread_create in pthread - found\n'}
+[0.834775] (artificial_occupy) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[0.838821] (nav2_gps_waypoint_follower_demo) JobEnded: {'identifier': 'nav2_gps_waypoint_follower_demo', 'rc': 0}
+[0.900832] (-) TimerEvent: {}
+[0.920005] (artificial_occupy) StdoutLine: {'line': b'-- Found sensor_msgs: 2.2.4 (/opt/ros/galactic/share/sensor_msgs/cmake)\n'}
+[0.980520] (artificial_occupy) StdoutLine: {'line': b'-- Found nav_msgs: 2.2.4 (/opt/ros/galactic/share/nav_msgs/cmake)\n'}
+[1.000897] (-) TimerEvent: {}
+[1.017337] (artificial_occupy) StdoutLine: {'line': b'-- Found std_srvs: 2.2.4 (/opt/ros/galactic/share/std_srvs/cmake)\n'}
+[1.025157] (artificial_occupy) StdoutLine: {'line': b'-- Found tf2: 0.17.5 (/opt/ros/galactic/share/tf2/cmake)\n'}
+[1.032297] (artificial_occupy) StdoutLine: {'line': b'-- Found tf2_ros: 0.17.5 (/opt/ros/galactic/share/tf2_ros/cmake)\n'}
+[1.100971] (-) TimerEvent: {}
+[1.201155] (-) TimerEvent: {}
+[1.213613] (artificial_occupy) StdoutLine: {'line': b'-- Found tf2_geometry_msgs: 0.17.5 (/opt/ros/galactic/share/tf2_geometry_msgs/cmake)\n'}
+[1.219028] (artificial_occupy) StdoutLine: {'line': b'-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/galactic/share/eigen3_cmake_module/cmake)\n'}
+[1.221419] (artificial_occupy) StdoutLine: {'line': b'-- Found Eigen3: TRUE (found version "3.3.7") \n'}
+[1.266063] (artificial_occupy) StdoutLine: {'line': b'-- Configuring done\n'}
+[1.272690] (artificial_occupy) StdoutLine: {'line': b'-- Generating done\n'}
+[1.273449] (artificial_occupy) StdoutLine: {'line': b'-- Build files have been written to: /root/ros2_ws/build/artificial_occupy\n'}
+[1.277925] (artificial_occupy) CommandEnded: {'returncode': 0}
+[1.278192] (artificial_occupy) JobProgress: {'identifier': 'artificial_occupy', 'progress': 'build'}
+[1.278313] (artificial_occupy) Command: {'cmd': ['/usr/bin/cmake', '--build', '/root/ros2_ws/build/artificial_occupy', '--', '-j24', '-l24'], 'cwd': '/root/ros2_ws/build/artificial_occupy', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/ros2_ws/src'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/artificial_occupy'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[1.300630] (artificial_occupy) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target artificial_occupy\x1b[0m\n'}
+[1.301208] (-) TimerEvent: {}
+[1.358749] (artificial_occupy) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/artificial_occupy.dir/src/main.cpp.o\x1b[0m\n'}
+[1.401292] (-) TimerEvent: {}
+[1.501474] (-) TimerEvent: {}
+[1.601658] (-) TimerEvent: {}
+[1.701838] (-) TimerEvent: {}
+[1.802023] (-) TimerEvent: {}
+[1.902208] (-) TimerEvent: {}
+[2.002398] (-) TimerEvent: {}
+[2.102591] (-) TimerEvent: {}
+[2.202773] (-) TimerEvent: {}
+[2.302959] (-) TimerEvent: {}
+[2.403143] (-) TimerEvent: {}
+[2.503331] (-) TimerEvent: {}
+[2.603515] (-) TimerEvent: {}
+[2.703701] (-) TimerEvent: {}
+[2.803905] (-) TimerEvent: {}
+[2.904091] (-) TimerEvent: {}
+[3.004277] (-) TimerEvent: {}
+[3.104468] (-) TimerEvent: {}
+[3.204656] (-) TimerEvent: {}
+[3.304842] (-) TimerEvent: {}
+[3.405032] (-) TimerEvent: {}
+[3.505260] (-) TimerEvent: {}
+[3.605448] (-) TimerEvent: {}
+[3.705640] (-) TimerEvent: {}
+[3.805835] (-) TimerEvent: {}
+[3.906023] (-) TimerEvent: {}
+[4.006209] (-) TimerEvent: {}
+[4.106389] (-) TimerEvent: {}
+[4.206574] (-) TimerEvent: {}
+[4.306771] (-) TimerEvent: {}
+[4.407006] (-) TimerEvent: {}
+[4.507232] (-) TimerEvent: {}
+[4.607458] (-) TimerEvent: {}
+[4.707682] (-) TimerEvent: {}
+[4.807897] (-) TimerEvent: {}
+[4.908077] (-) TimerEvent: {}
+[5.008269] (-) TimerEvent: {}
+[5.108451] (-) TimerEvent: {}
+[5.208632] (-) TimerEvent: {}
+[5.308819] (-) TimerEvent: {}
+[5.409005] (-) TimerEvent: {}
+[5.509198] (-) TimerEvent: {}
+[5.609375] (-) TimerEvent: {}
+[5.709548] (-) TimerEvent: {}
+[5.809729] (-) TimerEvent: {}
+[5.909920] (-) TimerEvent: {}
+[5.978385] (artificial_occupy) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable artificial_occupy\x1b[0m\n'}
+[6.009999] (-) TimerEvent: {}
+[6.110226] (-) TimerEvent: {}
+[6.210456] (-) TimerEvent: {}
+[6.223580] (artificial_occupy) StdoutLine: {'line': b'[100%] Built target artificial_occupy\n'}
+[6.229205] (artificial_occupy) CommandEnded: {'returncode': 0}
+[6.240698] (artificial_occupy) JobProgress: {'identifier': 'artificial_occupy', 'progress': 'install'}
+[6.241014] (artificial_occupy) Command: {'cmd': ['/usr/bin/cmake', '--install', '/root/ros2_ws/build/artificial_occupy'], 'cwd': '/root/ros2_ws/build/artificial_occupy', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'daniel'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib'), ('HOME', '/root'), ('OLDPWD', '/root/ros2_ws/src'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator2e4ccae616ba575a1d4a3c7d921201f35'), ('COLCON_PREFIX_PATH', '/root/ros2_ws/install'), ('ROS_DISTRO', 'galactic'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'unix:0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/root/ros2_ws/install/sensors:/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic'), ('TERMINATOR_UUID', 'urn:uuid:e7a9ad60-655e-467e-b46d-b7ca7fa3b009'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/root/ros2_ws/build/artificial_occupy'), ('PYTHONPATH', '/root/ros2_ws/install/sensors/lib/python3.8/site-packages:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/root/ros2_ws/install/sam_bot_description:/root/ros2_ws/install/sensors:/root/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/galactic')]), 'shell': False}
+[6.246074] (artificial_occupy) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[6.246189] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/lib/artificial_occupy/artificial_occupy\n'}
+[6.248297] (artificial_occupy) StdoutLine: {'line': b'-- Set runtime path of "/root/ros2_ws/install/artificial_occupy/lib/artificial_occupy/artificial_occupy" to ""\n'}
+[6.248391] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/package_run_dependencies/artificial_occupy\n'}
+[6.248476] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/parent_prefix_path/artificial_occupy\n'}
+[6.248574] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/ament_prefix_path.sh\n'}
+[6.248641] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/ament_prefix_path.dsv\n'}
+[6.248706] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/path.sh\n'}
+[6.248768] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/path.dsv\n'}
+[6.248830] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.bash\n'}
+[6.248891] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.sh\n'}
+[6.248952] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.zsh\n'}
+[6.249012] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.dsv\n'}
+[6.249077] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/package.dsv\n'}
+[6.249138] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/packages/artificial_occupy\n'}
+[6.249198] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/cmake/artificial_occupyConfig.cmake\n'}
+[6.249258] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/cmake/artificial_occupyConfig-version.cmake\n'}
+[6.249318] (artificial_occupy) StdoutLine: {'line': b'-- Installing: /root/ros2_ws/install/artificial_occupy/share/artificial_occupy/package.xml\n'}
+[6.250028] (artificial_occupy) CommandEnded: {'returncode': 0}
+[6.295759] (artificial_occupy) JobEnded: {'identifier': 'artificial_occupy', 'rc': 0}
+[6.296179] (-) EventReactorShutdown: {}

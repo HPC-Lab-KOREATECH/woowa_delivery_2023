@@ -1,0 +1,50 @@
+[1.153s] Invoking command in '/root/ros2_ws/src/sensors': PYTHONPATH=/root/ros2_ws/build/sensors/prefix_override:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sensors build --build-base /root/ros2_ws/build/sensors/build install --record /root/ros2_ws/build/sensors/install.log --install-scripts $base/lib/sensors --single-version-externally-managed
+[1.275s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:498: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[1.275s] !!
+[1.275s] 
+[1.275s]         ********************************************************************************
+[1.275s]         Usage of dash-separated 'script-dir' will not be supported in future
+[1.275s]         versions. Please use the underscore name 'script_dir' instead.
+[1.275s] 
+[1.275s]         This deprecation is overdue, please update your project and remove deprecated
+[1.275s]         calls to avoid build errors in the future.
+[1.275s] 
+[1.275s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[1.275s]         ********************************************************************************
+[1.275s] 
+[1.275s] !!
+[1.275s]   opt = self.warn_dash_deprecation(opt, section)
+[1.358s] running egg_info
+[1.467s] writing ../../build/sensors/sensors.egg-info/PKG-INFO
+[1.468s] writing dependency_links to ../../build/sensors/sensors.egg-info/dependency_links.txt
+[1.469s] writing entry points to ../../build/sensors/sensors.egg-info/entry_points.txt
+[1.470s] writing requirements to ../../build/sensors/sensors.egg-info/requires.txt
+[1.470s] writing top-level names to ../../build/sensors/sensors.egg-info/top_level.txt
+[1.492s] reading manifest file '../../build/sensors/sensors.egg-info/SOURCES.txt'
+[1.493s] writing manifest file '../../build/sensors/sensors.egg-info/SOURCES.txt'
+[1.493s] running build
+[1.493s] running build_py
+[1.494s] running install
+[1.495s] /usr/local/lib/python3.8/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.495s] !!
+[1.496s] 
+[1.496s]         ********************************************************************************
+[1.496s]         Please avoid running ``setup.py`` directly.
+[1.496s]         Instead, use pypa/build, pypa/installer or other
+[1.496s]         standards-based tools.
+[1.496s] 
+[1.496s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.496s]         ********************************************************************************
+[1.496s] 
+[1.496s] !!
+[1.496s]   self.initialize_options()
+[1.499s] running install_lib
+[1.516s] running install_data
+[1.530s] running install_egg_info
+[1.541s] removing '/root/ros2_ws/install/sensors/lib/python3.8/site-packages/sensors-0.0.0-py3.8.egg-info' (and everything under it)
+[1.541s] Copying ../../build/sensors/sensors.egg-info to /root/ros2_ws/install/sensors/lib/python3.8/site-packages/sensors-0.0.0-py3.8.egg-info
+[1.542s] running install_scripts
+[1.587s] Installing imu script to /root/ros2_ws/install/sensors/lib/sensors
+[1.587s] Installing tf script to /root/ros2_ws/install/sensors/lib/sensors
+[1.588s] writing list of installed files to '/root/ros2_ws/build/sensors/install.log'
+[1.618s] Invoked command in '/root/ros2_ws/src/sensors' returned '0': PYTHONPATH=/root/ros2_ws/build/sensors/prefix_override:/root/ros2_ws/install/sensors/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sensors build --build-base /root/ros2_ws/build/sensors/build install --record /root/ros2_ws/build/sensors/install.log --install-scripts $base/lib/sensors --single-version-externally-managed

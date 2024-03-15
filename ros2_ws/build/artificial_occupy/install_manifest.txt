@@ -1,0 +1,16 @@
+/root/ros2_ws/install/artificial_occupy/lib/artificial_occupy/artificial_occupy
+/root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/package_run_dependencies/artificial_occupy
+/root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/parent_prefix_path/artificial_occupy
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/ament_prefix_path.sh
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/ament_prefix_path.dsv
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/path.sh
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/environment/path.dsv
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.bash
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.sh
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.zsh
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/local_setup.dsv
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/package.dsv
+/root/ros2_ws/install/artificial_occupy/share/ament_index/resource_index/packages/artificial_occupy
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/cmake/artificial_occupyConfig.cmake
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/cmake/artificial_occupyConfig-version.cmake
+/root/ros2_ws/install/artificial_occupy/share/artificial_occupy/package.xml
